@@ -1,0 +1,5 @@
+OrderID, CustomerID, OrderDate, TotalAmount
+101,1,2025-01-03,99.99
+102,2,2025-01-04,49.50
+103,3,NULL, 120.50
+NULL,4,NULL, 200
